@@ -8,7 +8,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/../GameController.cs" root0="SKIP_HIGHLIGHTING" />
+=======
+    <setting file="file://$PROJECT_DIR$/bird.cs" root0="SKIP_HIGHLIGHTING" />
+>>>>>>> develop
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,7 +39,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657896100603</updated>
+<<<<<<< HEAD
       <workItem from="1657896106033" duration="2309000" />
+=======
+      <workItem from="1657896106033" duration="1116000" />
+>>>>>>> develop
     </task>
     <servers />
   </component>
